@@ -1,0 +1,11 @@
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/bin/Debug/netcoreapp3.1/01ByteBank
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/bin/Debug/netcoreapp3.1/01ByteBank.deps.json
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/bin/Debug/netcoreapp3.1/01ByteBank.runtimeconfig.json
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/bin/Debug/netcoreapp3.1/01ByteBank.runtimeconfig.dev.json
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/bin/Debug/netcoreapp3.1/01ByteBank.dll
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/bin/Debug/netcoreapp3.1/01ByteBank.pdb
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/obj/Debug/netcoreapp3.1/01ByteBank.csprojAssemblyReference.cache
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/obj/Debug/netcoreapp3.1/01ByteBank.AssemblyInfoInputs.cache
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/obj/Debug/netcoreapp3.1/01ByteBank.AssemblyInfo.cs
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/obj/Debug/netcoreapp3.1/01ByteBank.dll
+/home/claudio/Documents/study/faculdadeDotNet/01ByteBank/obj/Debug/netcoreapp3.1/01ByteBank.pdb
